@@ -84,6 +84,7 @@ public class DialogHelper {
         ImageView venueImageView = dialogView.findViewById(R.id.venueImageView);
         TextView venueNameTextView = dialogView.findViewById(R.id.venueNameTextView);
         MapView mapView = (MapView) dialogView.findViewById(R.id.mapView);
+
         MapsInitializer.initialize(App.getInstance().getCurrentActivity());
         mapView.getMapAsync(new OnMapReadyCallback() {
             @Override
