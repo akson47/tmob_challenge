@@ -1,0 +1,29 @@
+<resources>
+
+    <!--General-->
+    <string name="app_name">Tmob Foursquare</string>
+    <string name="ok">TAMAM</string>
+    <string name="alert">Uyarı</string>
+    <string name="network_error">Lütfen internet bağlantınızı kontrol edip tekrar deneyiniz</string>
+    <string name="unable_to_connect_server">Sisteme Ulaşılamıyor</string>
+    <string name="generic_error">Bir hata oluştu.</string>
+    <string name="dialog_retry">Tekrar Dene</string>
+    <!--General-->
+
+    <!--MainActivity-->
+    <string name="activity_title_main">Main Page</string>
+    <string name="edittext_hint_venue_type">Exp. Cafe, Bar</string>
+    <string name="edittext_hint_venue_location">Close to me</string>
+    <string name="search">Search</string>
+    <string name="alert_search">Lütfen en az 3 karakter giriniz.</string>
+    <string name="open_location_settings">Konum servisleri kapalı. Konum ayarlarını açmak ister misiniz?</string>
+    <string name="could_not_get_location">Konum alanamadı.</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string> 
+    <!--MainActivity-->
+
+    <!--PlacesActivity-->
+    <string name="activity_title_places">Places</string>
+    <!--PlacesActivity-->
+
+</resources>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="io.nlopez.smartlocation:library-3.3.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-3.3.3.aar/00447a7f2308a86ceff3604471b97b3f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-3.3.3.aar/00447a7f2308a86ceff3604471b97b3f/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
